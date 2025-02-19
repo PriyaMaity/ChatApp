@@ -449,7 +449,7 @@ body {
 
   .chat-area {
     width: 100%;
-    min-height: 695px;
+    min-height: 640px;
     overflow-y: auto;
   }
 
